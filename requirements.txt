@@ -25,6 +25,7 @@ fonttools=4.25.0=pyhd3eb1b0_0
 freetype=2.10.4=hd328e21_0
 icu=58.2=ha925a31_3
 idna=2.10=pyhd3eb1b0_0
+imdb-sqlite=0.1.3=pypi_0
 importlib-metadata=3.10.0=py39haa95532_0
 importlib_metadata=3.10.0=hd3eb1b0_0
 intel-openmp=2021.3.0=haa95532_3372
@@ -80,8 +81,10 @@ pillow=8.3.1=py39h4fa10fc_0
 pip=21.2.4=py38haa95532_0
 prometheus_client=0.11.0=pyhd3eb1b0_0
 prompt-toolkit=3.0.17=pyh06a4308_0
+pycountry=20.7.3=pypi_0
 pycparser=2.20=py_2
 pygments=2.10.0=pyhd3eb1b0_0
+pymongo=3.12.0=py39hd77b12b_0
 pyopenssl=20.0.1=pyhd3eb1b0_1
 pyparsing=2.4.7=pyhd3eb1b0_0
 pyqt=5.9.2=py39hd77b12b_6
@@ -105,6 +108,7 @@ terminado=0.9.4=py39haa95532_0
 testpath=0.5.0=pyhd3eb1b0_0
 tk=8.6.10=he774522_0
 tornado=6.1=py39h2bbff1b_0
+tqdm=4.62.2=pypi_0
 traitlets=5.0.5=pyhd3eb1b0_0
 tzdata=2021a=h5d7bf9c_0
 urllib3=1.26.6=pyhd3eb1b0_1
